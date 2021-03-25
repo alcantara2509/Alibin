@@ -1,0 +1,13 @@
+.sidebar-container {
+  position: fixed;
+  width: 10%;
+  background-color: tomato;
+  height: 100vh;
+  left: 0;
+  padding: 5vh;
+}
+
+.sidebar-links-container {
+  display: flex;
+  flex-direction: column;
+}
